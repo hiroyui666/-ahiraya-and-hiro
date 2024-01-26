@@ -36,3 +36,6 @@ body {
     transform: translate3d(0,-3px,0) rotateZ(0.01deg);
   }
 }
+ul { 
+color: white;
+}
