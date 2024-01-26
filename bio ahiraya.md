@@ -3,7 +3,6 @@ title: "bio ahiraya"
 order: 4
 in_menu: true
 ---
-<!DOCTYPE html>
 <html>
     <head>
         <title>Custom Slider</title>
