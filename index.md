@@ -3,6 +3,7 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
+<div class="slider-thumb">
 # live
 
 - **streamers ahiraya-and-hiro**
@@ -11,3 +12,4 @@ in_menu: true
   - * **bio**
 - * **la spirale** 
 - * **lien vers la chaine youtube** [la spirale movie](https://www.youtube.com/@LaSpirale-Movie) 
+</div> 
